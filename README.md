@@ -19,8 +19,6 @@ Using npm:
     npm install or npm i
 
 
-## The application will open in your default browser at http://localhost:3000.
-
 # Building for Production
 To build the app for production:
     
