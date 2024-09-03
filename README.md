@@ -2,7 +2,8 @@
 # Techno-News
 
 
-![image](https://github.com/user-attachments/assets/ece1efc6-dac6-4f94-94b6-8e3c340da337)
+![image](https://github.com/user-attachments/assets/18b65e89-fb10-4866-a0ef-4b9d87a5ce7e)
+
 
 ## Installation
 To get a local copy up and running, follow these steps:
