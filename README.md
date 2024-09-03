@@ -24,6 +24,10 @@ To build the app for production:
     
     npm run build
 
+# Running the applications
+```bash
+    npm start
+```
 
 
 # Demo
